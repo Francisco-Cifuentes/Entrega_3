@@ -1,0 +1,13 @@
+C:\Users\facif\source\repos\Calificaciones_List\Calificaciones_List\bin\Debug\netcoreapp3.1\Calificaciones_List.exe
+C:\Users\facif\source\repos\Calificaciones_List\Calificaciones_List\bin\Debug\netcoreapp3.1\Calificaciones_List.deps.json
+C:\Users\facif\source\repos\Calificaciones_List\Calificaciones_List\bin\Debug\netcoreapp3.1\Calificaciones_List.runtimeconfig.json
+C:\Users\facif\source\repos\Calificaciones_List\Calificaciones_List\bin\Debug\netcoreapp3.1\Calificaciones_List.runtimeconfig.dev.json
+C:\Users\facif\source\repos\Calificaciones_List\Calificaciones_List\bin\Debug\netcoreapp3.1\Calificaciones_List.dll
+C:\Users\facif\source\repos\Calificaciones_List\Calificaciones_List\bin\Debug\netcoreapp3.1\Calificaciones_List.pdb
+C:\Users\facif\source\repos\Calificaciones_List\Calificaciones_List\obj\Debug\netcoreapp3.1\Calificaciones_List.csprojAssemblyReference.cache
+C:\Users\facif\source\repos\Calificaciones_List\Calificaciones_List\obj\Debug\netcoreapp3.1\Calificaciones_List.AssemblyInfoInputs.cache
+C:\Users\facif\source\repos\Calificaciones_List\Calificaciones_List\obj\Debug\netcoreapp3.1\Calificaciones_List.AssemblyInfo.cs
+C:\Users\facif\source\repos\Calificaciones_List\Calificaciones_List\obj\Debug\netcoreapp3.1\Calificaciones_List.csproj.CoreCompileInputs.cache
+C:\Users\facif\source\repos\Calificaciones_List\Calificaciones_List\obj\Debug\netcoreapp3.1\Calificaciones_List.dll
+C:\Users\facif\source\repos\Calificaciones_List\Calificaciones_List\obj\Debug\netcoreapp3.1\Calificaciones_List.pdb
+C:\Users\facif\source\repos\Calificaciones_List\Calificaciones_List\obj\Debug\netcoreapp3.1\Calificaciones_List.genruntimeconfig.cache
